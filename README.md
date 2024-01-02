@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @charusingh96
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data modeling, and visualization
+- I work as a Financial Analyst at Rhotopia Financial, I have experience building machine learning models.
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me, email me at charus323@gmail.com
 
